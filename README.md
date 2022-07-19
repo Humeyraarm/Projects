@@ -1,2 +1,2 @@
 # Projects
-Capstone Projects 
+Mid-works and Capstone Projects 
